@@ -1,0 +1,5 @@
+In the first python file simplesmart we are trying to retrieve data from websites like google news, darksky and ipchicken to get the news ,weather details and ip address respectively.
+After that we are using assets to show the image of weather icon in the display.
+News get keep updating according to the google news.
+It sets the clock timing according to the system timing.
+  
